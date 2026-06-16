@@ -138,7 +138,7 @@ hostel-room-allocation/
 
 ## 🛠️ Technologies Used
 
-- **Language:** C++
+- **Language:** C
 - **Concepts:** Structs / Classes, File I/O, Arrays / Linked Lists, Functions, Loops & Conditionals
 - **Interface:** Console / Terminal (menu-driven)
 
